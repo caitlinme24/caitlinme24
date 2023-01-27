@@ -1,6 +1,7 @@
 ### Hi I'm Caitlin 👋
 
 I'm a software engineer passionate about building out full-stack web applications & dev tools and contributing to the open source community.
+Co-creator of Knight Owl, an open source middleware library and monitoring tool for securing Express-GraphQL endpoints. 
 
 Outside of work, you can find me hiking or playing guitar and piano! <br/>
 
