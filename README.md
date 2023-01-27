@@ -1,6 +1,6 @@
 ### Hi I'm Caitlin 👋
 
-I'm a Software engineer passionate about building out full-stack web applications & dev tools and contributing to the open source community.
+I'm a software engineer passionate about building out full-stack web applications & dev tools and contributing to the open source community.
 
 Outside of work, you can find me hiking or playing guitar and piano! <br/>
 
